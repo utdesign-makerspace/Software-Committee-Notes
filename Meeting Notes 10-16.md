@@ -10,8 +10,8 @@ currently we have:
 new members table (what information we need to store):
 - first name
 - last name
-- preffered name
-- preffered pronoun
+- preferred name
+- preferred pronoun
 - include gender(???)
 - year (fr, soph, jr, sr, grad, phd, other)
 - email
